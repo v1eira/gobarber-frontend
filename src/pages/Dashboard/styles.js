@@ -29,6 +29,11 @@ export const Container = styled.div`
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 15px;
     margin-top: 30px;
+
+    @media (max-width: 420px) {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
   }
 `;
 

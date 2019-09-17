@@ -77,6 +77,12 @@ export const Container = styled.div`
     font-size: 16px;
     transition: background 0.2s;
 
+    @media (max-width: 420px) {
+      margin-left: 64px;
+      margin-right: 64px;
+      width: calc(100% - 128px);
+    }
+
     &:hover {
       background: ${darken(0.1, '#F64C75')};
     }
