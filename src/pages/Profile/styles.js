@@ -19,6 +19,11 @@ export const Container = styled.div`
       color: #fff;
       margin: 0 0 10px;
 
+      @media (max-width: 420px) {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+
       &::placeholder {
         color: rgba(255, 255, 255, 0.7);
       }
@@ -48,6 +53,11 @@ export const Container = styled.div`
       border-radius: 4px;
       font-size: 16px;
       transition: background 0.2s;
+
+      @media (max-width: 420px) {
+        margin-left: 64px;
+        margin-right: 64px;
+      }
 
       &:hover {
         background: ${darken(0.07, '#3b9eff')};
