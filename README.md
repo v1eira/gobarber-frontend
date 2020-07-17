@@ -48,7 +48,7 @@ This project is under the [MIT license](https://github.com/v1eira/gobarber-front
 
 # :iphone: Screens
 <div>
-  <img src="examples/SignIn-Mobile.png" height="600"/>
-  <img src="examples/Dashboard-Mobile.png" height="600"/>
-  <img src="examples/Profile-Mobile.png" height="600"/>
+  <img src="examples/SignIn-Mobile.png" height="500"/>
+  <img src="examples/Dashboard-Mobile.png" height="500"/>
+  <img src="examples/Profile-Mobile.png" height="500"/>
 </div>
