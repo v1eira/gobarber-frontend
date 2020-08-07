@@ -24,7 +24,7 @@ $ yarn
 
 This project needs to interact with a server to receive and register data.
 
-Check [GoBarber Backend](https://github.com/v1eira/https://github.com/v1eira/gobarber-backend) repository and follow the instructions in order to get it running in your machine.
+Check [GoBarber Backend](https://github.com/v1eira/gobarber-backend) repository and follow the instructions in order to get it running in your machine.
 
 # :rocket: Running the app
 
